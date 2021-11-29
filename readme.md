@@ -9,3 +9,8 @@ Continue to try to fix old repo as
 all files such as acquire1.py, repare1.py are identical to instructors solution 
 
 added solutions that i have completed as well 
+
+solutions : 
+
+https://github.com/CodeupClassroom/hopper-classification-exercises
+https://github.com/CodeupClassroom/hopper-classification-exercises/blob/main/logistic_regression_exercise.ipynb
